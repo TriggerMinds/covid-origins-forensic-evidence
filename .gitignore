@@ -1,8 +1,6 @@
-# Large binary PDFs — referenced in SOURCES.md, not included
-*.pdf
+# Screenshots and images
 *.png
 *.jpg
-*.xlsx
 *.torrent
 
 # Python
@@ -18,8 +16,3 @@ Desktop.ini
 # Editor
 .vscode/
 .idea/
-
-# Keep markdown and html
-!.md
-!.html
-!.txt
