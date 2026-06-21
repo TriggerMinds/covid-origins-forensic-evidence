@@ -1,6 +1,6 @@
 # COVID-19 Origins — Forensic Evidence Repository
 
-**Version:** 1.0 — 22 June 2026
+**Version:** 1.1 — 22 June 2026
 **Status:** Active research repository
 **Languages:** English (primary), Chinese sources included
 
@@ -35,6 +35,7 @@ This repository contains a structured forensic investigation into the origins of
 | Check a claim | [Claim Matrices](supplemental/claim-matrices/) |
 | Understand the methods | [Methodology](methodology/) |
 | Read the synthesis | [Synthesis Report](DUTCH_SYNTHESE.md) |
+| See new evidence (June 2026) | [New Evidence](NEW_EVIDENCE.md) |
 
 ---
 
@@ -130,6 +131,9 @@ All searches used publicly verifiable sources. Both English and Chinese (simplif
 5. AMMS-WIV collaborated on MERS ADE research in 2019 (paper submitted Oct 1, 2019)
 6. PRJNA612766 contained early Wuhan sequences deleted from SRA; recovered by Bloom via Google Cloud
 7. The COVID-19 progenitor is 3 mutations closer to bat coronaviruses than Huanan Market viruses
+8. **NEW:** WHO SAGO (June 2025) states all hypotheses remain viable, citing missing data from China
+9. **NEW:** Multiple SRA datasets foundational to natural-origin hypotheses were revised/altered (USRTK)
+10. **NEW:** PRJNA612766 is not an isolated deletion—a broader pattern exists across COVID-origin datasets
 
 ## What Is NOT Proven
 
