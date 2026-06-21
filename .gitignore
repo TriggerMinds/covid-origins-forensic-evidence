@@ -1,0 +1,25 @@
+# Large binary PDFs — referenced in SOURCES.md, not included
+*.pdf
+*.png
+*.jpg
+*.xlsx
+*.torrent
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Keep markdown and html
+!.md
+!.html
+!.txt
