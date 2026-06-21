@@ -115,11 +115,10 @@ Van de zes gespecificeerde open gaps zijn er **drie opgelost**, **twee gedeeltel
 | archive.org pdf (msab246) | Volledige paper PDF op archive.org | ✅ Reeds lokaal als msab246.pdf |
 | Ecosyste.ms | Toont raonyguimaraes fork met metadata | ✅ `repos.ecosyste.ms/...` |
 
-**CRITICAL — Tweede gedelete project:**
-- Bloom onthulde dat Wuhan University **twee** SRA-projecten verwijderde:
-  - SUB7147304 = PRJNA612766 (gepubliceerd in Small, 241 accessions)
-  - **Een tweede project** (niet gepubliceerd) — details niet volledig openbaar
-- Daarnaast: NIH weigerde in juni 2020 een deletion request voor een derde BioProject (PRJNA637497/SUB7554642), en adviseerde "edit or replace" in plaats van delete.
+**CRITICAL — Verwijderingsverzoeken Wuhan University:**
+- **Bevestigd gedelete:** PRJNA612766 (SUB7147304), gepubliceerd in Small, 241 accessions. Verwijderd medio juni 2020.
+- **Geweigerde verwijdering:** PRJNA637497 (SUB7554642). NIH weigerde op 8 juni 2020 en adviseerde "edit or replace." De onderzoeker antwoordde: "I am sorry for my misrepresentation." (Bron: Empower Oversight FOIA, 29 maart 2023, geciteerd in The Epoch Times).
+- **Bloom's claim over twee projecten:** Bloom stelde op X/Twitter (@jbloom_lab, threadreaderapp) dat Wuhan University "twee projecten verwijderde." Het tweede gedelete project is **niet onafhankelijk bevestigd** — de Empower Oversight FOIA documenteert dat PRJNA637497 werd geweigerd, niet verwijderd. Deze claim blijft als **Bloom's claim** in het dossier, niet als bewezen feit.
 
 ---
 
