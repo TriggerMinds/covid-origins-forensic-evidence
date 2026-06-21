@@ -1,0 +1,4 @@
+sources/primary/**/*.pdf filter=lfs diff=lfs merge=lfs -text
+sources/primary/**/*.html filter=lfs diff=lfs merge=lfs -text
+sources/chinese-sources/**/*.html filter=lfs diff=lfs merge=lfs -text
+sources/secondary/**/*.html filter=lfs diff=lfs merge=lfs -text
