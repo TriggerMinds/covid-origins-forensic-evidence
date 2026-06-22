@@ -28,6 +28,11 @@ Entries are organized by category: documents, FOIA releases, institutional actio
 - USGS DEFUSE FOIA records (74 MB) — Proposal drafts and communications
 - Senate letter to DARPA (Sen. Rand Paul, April 2024): `Senate_DARPA_letter_Rand_Paul.pdf` (529 KB)
 
+🔗 **Direct access / download:**
+- DEFUSE proposal: [`assets.ctfassets.net/.../defuse-proposal_watermark_Redacted.pdf`](https://assets.ctfassets.net/syq3snmxclc9/4NFC6M83ewzKLf6DvAygb4/0cf477f75646e718afb332b7ac6c3cd1/defuse-proposal_watermark_Redacted.pdf)
+- USGS DEFUSE FOIA: [`archive.org/download/2021-006245-combined-records-redacted/`](https://archive.org/download/2021-006245-combined-records-redacted/2021-006245%20-%20Combined%20Records_Redacted.pdf)
+- Senate DARPA letter: [`hsgac.senate.gov/.../2024.04.09_SRP-Letter-to-DARPA_Final.pdf`](https://www.hsgac.senate.gov/wp-content/uploads/2024.04.09_SRP-Letter-to-DARPA_Final.pdf)
+
 **Why it's a smoking gun:**
 - The proposal was written BEFORE SARS-CoV-2 existed (March 2018)
 - The exact technique proposed — furin cleavage site insertion into bat SARS-like coronavirus backbones — matches the unusual feature found in SARS-CoV-2 (PRRA insertion)
@@ -87,9 +92,15 @@ Entries are organized by category: documents, FOIA releases, institutional actio
 
 **Primary source:**
 - `Archive_Fauci_FOIA_emails.pdf` (379 MB) — Complete Fauci-EcoHealth email dump
-- `Archive_Fauci_FOIA_emails_fulltext.txt` (4.2 MB) — Searchable text version
+- `Archive_Fauci_FOIA_emails_fulltext.txt` (4.2 MB) — Searchable text
 - `GitHub_Fauci_FOIA_email_text.txt` (5.0 MB) — GitHub mirror
 - BuzzFeed FOIA release (14 June 2021)
+
+🔗 **Direct access / download:**
+- Fauci FOIA emails (Internet Archive): [`archive.org/download/fauci-emails/fauci-emails.pdf`](https://archive.org/download/fauci-emails/fauci-emails.pdf) (379 MB)
+- Searchable text: [`archive.org/stream/fauci-emails/fauci-emails_djvu.txt`](https://archive.org/stream/fauci-emails/fauci-emails_djvu.txt)
+- GitHub mirror: [`github.com/nveldt/fauci-email`](https://github.com/nveldt/fauci-email)
+- BuzzFeed FOIA (Wayback): [`web.archive.org/.../buzzfeednews.com/article/ryanmac/...`](https://web.archive.org/web/20210614155133/https://www.buzzfeednews.com/article/ryanmac/inside-email-effort-downplay-covid-lab-leak-theory-science)
 
 **Why it's a smoking gun:**
 - Direct evidence of institutional coordination to shape scientific narrative
@@ -129,6 +140,13 @@ Entries are organized by category: documents, FOIA releases, institutional actio
 - Farkas et al. 2020 Supplementary Table 1 (PeerJ, DOI:10.7717/peerj.9255) — Full accession list
 - SRA query of SRR11313485 returns 404 (independently verified 21 June 2026)
 - Bloom GitHub repo: github.com/jbloom/SARS-CoV-2_PRJNA612766 (82 stars)
+
+🔗 **Direct access / download:**
+- Bloom paper: [`doi.org/10.1093/molbev/msab246`](https://doi.org/10.1093/molbev/msab246) — open access via [`pmc.ncbi.nlm.nih.gov/articles/PMC8436388/`](https://pmc.ncbi.nlm.nih.gov/articles/PMC8436388/)
+- Farkas paper: [`doi.org/10.7717/peerj.9255`](https://doi.org/10.7717/peerj.9255)
+- Bloom GitHub: [`github.com/jbloom/SARS-CoV-2_PRJNA612766`](https://github.com/jbloom/SARS-CoV-2_PRJNA612766)
+- SRA query (test yourself): [`ncbi.nlm.nih.gov/sra/SRR11313485`](https://www.ncbi.nlm.nih.gov/sra/SRR11313485) — returns 404
+- Wayback archive: [`web.archive.org/.../SRR11313485/SRR11313485`](https://web.archive.org/web/20210502130820/https://storage.googleapis.com/nih-sequence-read-archive/run/SRR11313485/SRR11313485)
 
 **Why it's a smoking gun:**
 - **The deletion was real** — independently verified via SRA query (404)
@@ -219,6 +237,12 @@ The reexamination argues that the limited genomic coverage of the recovered sequ
 - Baidu Baike Zhou biography: `baidu_baike_zhou_yusen.html`
 - PubChem patent page: pubchem.ncbi.nlm.nih.gov/patent/CN-111333704-A
 - WIPO PATENTSCOPE: patentscope.wipo.int
+
+🔗 **Direct access / download:**
+- Google Patents: [`patents.google.com/patent/CN111333704A/en`](https://patents.google.com/patent/CN111333704A/en)
+- Patent PDF: [`patentimages.storage.googleapis.com/.../CN111333704A.pdf`](https://patentimages.storage.googleapis.com/97/41/44/d1ca7d8928f221/CN111333704A.pdf)
+- WIPO: [`patentscope.wipo.int/search/en/detail.jsf?docId=CN298978866`](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN298978866)
+- Baidu Baike (周育森): [`baike.baidu.com/item/周育森`](https://baike.baidu.com/item/%E5%91%A8%E8%82%B2%E6%A3%AE)
 
 **Why it's a smoking gun:**
 - **Exceptionally fast vaccine development** — mouse immunization studies typically require 4-6 weeks

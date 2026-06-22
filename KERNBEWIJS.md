@@ -28,6 +28,11 @@ De bewijsstukken zijn ingedeeld per categorie: documenten, FOIA-vrijgaven, insti
 - USGS DEFUSE FOIA-documenten (74 MB) — Voorstelconcepten en communicatie
 - Senaatsbrief aan DARPA (Sen. Rand Paul, april 2024): `Senate_DARPA_letter_Rand_Paul.pdf` (529 KB)
 
+🔗 **Direct openen / downloaden:**
+- DEFUSE voorstel: [`assets.ctfassets.net/.../defuse-proposal_watermark_Redacted.pdf`](https://assets.ctfassets.net/syq3snmxclc9/4NFC6M83ewzKLf6DvAygb4/0cf477f75646e718afb332b7ac6c3cd1/defuse-proposal_watermark_Redacted.pdf)
+- USGS DEFUSE FOIA: [`archive.org/download/2021-006245-combined-records-redacted/`](https://archive.org/download/2021-006245-combined-records-redacted/2021-006245%20-%20Combined%20Records_Redacted.pdf)
+- Senaatsbrief DARPA: [`hsgac.senate.gov/.../2024.04.09_SRP-Letter-to-DARPA_Final.pdf`](https://www.hsgac.senate.gov/wp-content/uploads/2024.04.09_SRP-Letter-to-DARPA_Final.pdf)
+
 **Waarom dit kernbewijs is:**
 - Het voorstel werd geschreven VOORDAT SARS-CoV-2 bestond (maart 2018)
 - De exacte techniek die werd voorgesteld — furine-splitsingsplaats inbouw in vleermuis-SARS-achtige coronavirussen — komt overeen met het ongebruikelijke kenmerk in SARS-CoV-2 (PRRA-insertie)
@@ -46,6 +51,11 @@ De bewijsstukken zijn ingedeeld per categorie: documenten, FOIA-vrijgaven, insti
 - Science.org (12 mei 2026): "Virologist accused of starting COVID-19 will fight U.S. ban"
 - Modernity.news (24 maart 2026): "Baric omitted the furin cleavage site... testified that he had seen it, and the idea of inserting such a site 'was clearly mine'"
 - Brownstone Institute (juni 2026): Gedetailleerde analyse van Baric's getuigenis
+
+🔗 **Direct openen / downloaden:**
+- Science.org: [`science.org/content/article/virologist-accused-starting-covid-19-will-fight-u-s-ban-funding`](https://www.science.org/content/article/virologist-accused-starting-covid-19-will-fight-u-s-ban-funding)
+- Modernity.news: [`modernity.news/.../the-us-governments-ongoing-coverup-of-ralph-barics-covid-lab-notebooks/`](https://modernity.news/2026/03/24/the-us-governments-ongoing-coverup-of-ralph-barics-covid-lab-notebooks/)
+- Brownstone Institute: [`brownstone.org/articles/did-ralph-baric-at-unc-create-sars-cov-2/`](https://brownstone.org/articles/did-ralph-baric-at-unc-create-sars-cov-2/)
 
 **Waarom dit kernbewijs is:**
 - Baric is de toonaangevende expert op het gebied van coronavirus furine-splitsingsplaatsen
@@ -66,6 +76,10 @@ De bewijsstukken zijn ingedeeld per categorie: documenten, FOIA-vrijgaven, insti
 **Primaire bron:**
 - USRTK NIH FOIA-vrijgave (maart 2026): `USRTK_NIH_FOIA_Mar2026.html`
 - USRTK-archief: `USRTK_Final_Release_Redacted.pdf` (13,4 MB)
+
+🔗 **Direct openen / downloaden:**
+- USRTK artikel: [`usrtk.org/covid-19-origins/nih-files-reveal-broader-coronavirus-engineering-research-before-covid-19/`](https://usrtk.org/covid-19-origins/nih-files-reveal-broader-coronavirus-engineering-research-before-covid-19/)
+- Truthdig samenvatting: [`truthdig.com/articles/nih-files-reveal-broader-coronavirus-engineering-research-before-covid-19/`](https://www.truthdig.com/articles/nih-files-reveal-broader-coronavirus-engineering-research-before-covid-19/)
 
 **Relevante passage (Truthdig/USRTK parafrase van FOIA-document):**
 "We anticipate that inserting the furin cleavage site into RaTG13 may increase the virus's ability to infect and cause disease in living organisms."
@@ -91,6 +105,12 @@ De bewijsstukken zijn ingedeeld per categorie: documenten, FOIA-vrijgaven, insti
 - `GitHub_Fauci_FOIA_email_text.txt` (5,0 MB) — GitHub-spiegel
 - BuzzFeed FOIA-vrijgave (14 juni 2021)
 
+🔗 **Direct openen / downloaden:**
+- Fauci FOIA e-mails (Internet Archive): [`archive.org/download/fauci-emails/fauci-emails.pdf`](https://archive.org/download/fauci-emails/fauci-emails.pdf) (379 MB)
+- Doorzoekbare tekst: [`archive.org/stream/fauci-emails/fauci-emails_djvu.txt`](https://archive.org/stream/fauci-emails/fauci-emails_djvu.txt)
+- GitHub-spiegel: [`github.com/nveldt/fauci-email`](https://github.com/nveldt/fauci-email)
+- BuzzFeed FOIA (Wayback): [`web.archive.org/.../buzzfeednews.com/article/ryanmac/...`](https://web.archive.org/web/20210614155133/https://www.buzzfeednews.com/article/ryanmac/inside-email-effort-downplay-covid-lab-leak-theory-science)
+
 **Waarom dit kernbewijs is:**
 - Direct bewijs van institutionele coördinatie om het wetenschappelijke narratief te sturen
 - De e-mail toont de NIH-directeur die een gecoördineerde boodschap aanstuurt
@@ -108,6 +128,11 @@ De bewijsstukken zijn ingedeeld per categorie: documenten, FOIA-vrijgaven, insti
 **Primaire bron:**
 - SSCP EcoHealth Rapport (mei 2024): `SSCP_EcoHealth_Report_May2024.pdf` (4,0 MB)
 - House Intelligence Rapport (dec 2022): `House_Intel_COVID_Origins_Report_Dec2022.pdf` (321 KB)
+
+🔗 **Direct openen / downloaden:**
+- SSCP EcoHealth rapport: [`oversight.house.gov/.../2024.05.01-SSCP-Report_FINAL.pdf`](https://oversight.house.gov/wp-content/uploads/2024/04/2024.05.01-SSCP-Report_FINAL.pdf)
+- House Intelligence rapport: [`intelligence.house.gov/.../final_unclass_summary_covid_origins_report_dec_2022.pdf`](https://intelligence.house.gov/uploadedfiles/final_unclass_summary_covid_origins_report_dec_2022.pdf)
+- NIH RePORTER (Daszak grant R01AI110964): [`reporter.nih.gov/project-details/9819304`](https://reporter.nih.gov/project-details/9819304)
 
 **Waarom dit kernbewijs is:**
 - De subsidie financierde juist de vleermuiscoronavirus-surveillance en samenwerking met WIV die aan de pandemie voorafging
@@ -129,6 +154,13 @@ De bewijsstukken zijn ingedeeld per categorie: documenten, FOIA-vrijgaven, insti
 - Farkas et al. 2020 Supplementaire Tabel 1 (PeerJ, DOI:10.7717/peerj.9255) — Volledige toegangslijst
 - SRA-zoekopdracht naar SRR11313485 retourneert 404 (zelfstandig geverifieerd 21 juni 2026)
 - Bloom GitHub-repo: github.com/jbloom/SARS-CoV-2_PRJNA612766 (82 sterren)
+
+🔗 **Direct openen / downloaden:**
+- Bloom paper: [`doi.org/10.1093/molbev/msab246`](https://doi.org/10.1093/molbev/msab246) — open access via [`pmc.ncbi.nlm.nih.gov/articles/PMC8436388/`](https://pmc.ncbi.nlm.nih.gov/articles/PMC8436388/)
+- Farkas paper: [`doi.org/10.7717/peerj.9255`](https://doi.org/10.7717/peerj.9255)
+- Bloom GitHub: [`github.com/jbloom/SARS-CoV-2_PRJNA612766`](https://github.com/jbloom/SARS-CoV-2_PRJNA612766)
+- SRA-zoekopdracht (test zelf of SRR11313485 404 retourneert): [`ncbi.nlm.nih.gov/sra/SRR11313485`](https://www.ncbi.nlm.nih.gov/sra/SRR11313485)
+- Wayback Machine archief: [`web.archive.org/.../SRR11313485/SRR11313485`](https://web.archive.org/web/20210502130820/https://storage.googleapis.com/nih-sequence-read-archive/run/SRR11313485/SRR11313485)
 
 **Waarom dit kernbewijs is:**
 - **De verwijdering is echt** — onafhankelijk geverifieerd via SRA-zoekopdracht (404)
@@ -157,6 +189,10 @@ De bewijsstukken zijn ingedeeld per categorie: documenten, FOIA-vrijgaven, insti
 - USRTK-onderzoek: usrtk.org/covid-19-origins/altered-datasets-raise-more-questions-about-reliability-of-key-studies-on-coronavirus-origins/
 - USRTK FOIA-documenten: usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs/
 
+🔗 **Direct openen / downloaden:**
+- USRTK artikel: [`usrtk.org/covid-19-origins/altered-datasets-raise-more-questions/`](https://usrtk.org/covid-19-origins/altered-datasets-raise-more-questions-about-reliability-of-key-studies-on-coronavirus-origins/)
+- USRTK FOIA-documenten: [`usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2/`](https://usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs/)
+
 **Waarom dit kernbewijs is:**
 - Toont aan dat PRJNA612766 geen op zichzelf staand incident was
 - De aangepaste datasets vormen de basis van de natuurlijke-oorspronghypothese
@@ -175,6 +211,10 @@ De bewijsstukken zijn ingedeeld per categorie: documenten, FOIA-vrijgaven, insti
 **Primaire bron:**
 - Bloom 2021 MBE-paper, Figuur 6 (geredigeerde e-mail)
 - Bloom's persoonlijke verificatie van GISAID, NCBI, en "any database used by the joint WHO-China report"
+
+🔗 **Direct openen / downloaden:**
+- Bloom paper (Figuur 6): [`pmc.ncbi.nlm.nih.gov/articles/PMC8436388/`](https://pmc.ncbi.nlm.nih.gov/articles/PMC8436388/) — open access, inclusief de geredigeerde e-mail
+- Archive.org-spiegel paper: [`archive.org/download/msab246/msab246.pdf`](https://archive.org/download/msab246/msab246.pdf)
 
 **Waarom dit kernbewijs is:**
 - De opgegeven reden voor verwijdering ("verhuizen naar andere website") was ofwel onjuist ofwel nooit uitgevoerd
@@ -195,6 +235,10 @@ De bewijsstukken zijn ingedeeld per categorie: documenten, FOIA-vrijgaven, insti
 **Primaire bron:**
 - Bloom 2021, MBE Tabel 1 (DOI:10.1093/molbev/msab246)
 - Debarre & Hensel 2025 kritische heranalyse (DOI:10.1093/mbe/msaf109, PMC12147218) — bevestigt verzameldatums maar betwist enkele fylogenetische conclusies
+
+🔗 **Direct openen / downloaden:**
+- Bloom paper: [`doi.org/10.1093/molbev/msab246`](https://doi.org/10.1093/molbev/msab246)
+- Debarre & Hensel heranalyse: [`pmc.ncbi.nlm.nih.gov/articles/PMC12147218/`](https://pmc.ncbi.nlm.nih.gov/articles/PMC12147218/)
 
 **Kanttekening door Debarre & Hensel 2025:**
 De heranalyse stelt dat de beperkte genomische dekking van de herstelde sequenties mogelijk geen robuuste fylogenetische conclusies ondersteunt. Dit is een actief wetenschappelijk debat, geen beslechte kwestie.
@@ -220,6 +264,12 @@ De heranalyse stelt dat de beperkte genomische dekking van de herstelde sequenti
 - PubChem-patentpagina: pubchem.ncbi.nlm.nih.gov/patent/CN-111333704-A
 - WIPO PATENTSCOPE: patentscope.wipo.int
 
+🔗 **Direct openen / downloaden:**
+- Google Patents: [`patents.google.com/patent/CN111333704A/en`](https://patents.google.com/patent/CN111333704A/en)
+- Patent PDF: [`patentimages.storage.googleapis.com/.../CN111333704A.pdf`](https://patentimages.storage.googleapis.com/97/41/44/d1ca7d8928f221/CN111333704A.pdf)
+- WIPO: [`patentscope.wipo.int/search/en/detail.jsf?docId=CN298978866`](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN298978866)
+- Baidu Baike (周育森): [`baike.baidu.com/item/周育森`](https://baike.baidu.com/item/%E5%91%A8%E8%82%B2%E6%A3%AE)
+
 **Waarom dit kernbewijs is:**
 - **Uitzonderlijk snelle vaccinontwikkeling** — muizenimmunisatiestudies vergen normaal 4-6 weken
 - **Platformcontinuïteit** — de RBD-Fc-technologie was ontwikkeld voor MERS (2013-2019) en snel aangepast aan SARS-CoV-2
@@ -241,6 +291,11 @@ De heranalyse stelt dat de beperkte genomische dekking van de herstelde sequenti
 **Primaire bron:**
 - Wan et al. 2020, *Journal of Virology* (DOI:10.1128/JVI.02015-19) — Ingediend 1 oktober 2019, gepubliceerd 14 februari 2020
 - Senaatsrapport HELP: `Senate_HELP_COVID_Origins_Report.pdf` (4,8 MB) — stelt expliciet dat Zhou "Shi's collaborator in the aforementioned 2019 project" was
+
+🔗 **Direct openen / downloaden:**
+- JVI paper: [`doi.org/10.1128/JVI.02015-19`](https://doi.org/10.1128/JVI.02015-19)
+- Senaatsrapport HELP: [`govinfo.gov/.../GOVPUB-Y4_IN8_19-PURL-gpo212742.pdf`](https://www.govinfo.gov/content/pkg/GOVPUB-Y4_IN8_19-PURL-gpo212742/pdf/GOVPUB-Y4_IN8_19-PURL-gpo212742.pdf)
+- Zhou's MERS-review (Viruses 2019): [`doi.org/10.3390/v11010060`](https://doi.org/10.3390/v11010060)
 
 **Waarom dit kernbewijs is:**
 - Vestigt directe AMMS-WIV-samenwerking in 2019, vóór de pandemie
