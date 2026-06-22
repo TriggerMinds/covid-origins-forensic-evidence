@@ -35,6 +35,7 @@ This repository contains a structured forensic investigation into the origins of
 | Check a claim | [Claim Matrices](supplemental/claim-matrices/) |
 | Understand the methods | [Methodology](methodology/) |
 | Read the synthesis | [Synthesis Report](DUTCH_SYNTHESE.md) |
+| Check a claim | [Smoking Guns](SMOKING_GUNS.md) |
 | See new evidence (June 2026) | [New Evidence](NEW_EVIDENCE.md) |
 
 ---
